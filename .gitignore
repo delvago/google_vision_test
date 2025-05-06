@@ -1,6 +1,6 @@
-# Igonorar los archivos dentro de la carpeta GoogleVision
-
+# Entorno virtual
 GoogleVision
 
+# Credenciales de Google Cloud
 service_credentials.json
 credentials_vision.json
